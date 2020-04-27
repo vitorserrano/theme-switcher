@@ -4,7 +4,7 @@
 </h1>
 
 ### :computer: Projeto
-- Feito a partir de uma [videoaula](https://www.youtube.com/watch?v=ngVU74daJ8Y) ministrado pela Rocketseat.
+- Feito a partir de uma [videoaula](https://www.youtube.com/watch?v=ngVU74daJ8Y) no [canal da Rocketseat no youtube](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/featured).
 - Este repositório é um Switch para alteração de temas de uma aplicação desenvolvido em React com o template de typescript.
 
 ### :page_facing_up: Como começar
